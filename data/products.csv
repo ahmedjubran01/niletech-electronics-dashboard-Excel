@@ -1,0 +1,56 @@
+product_id,product_name,category,list_price_egp,unit_cost_egp
+SP01,Galaxy A56 128GB,Smartphones,16500,13800
+SP02,Galaxy S25 256GB,Smartphones,52000,44500
+SP03,iPhone 16 128GB,Smartphones,58000,50500
+SP04,Redmi Note 14,Smartphones,11500,9600
+SP05,Oppo Reno 12,Smartphones,19500,16400
+SP06,Infinix Note 40,Smartphones,9800,8200
+SP07,Honor X9c,Smartphones,14500,12100
+SP08,iPhone 15 128GB,Smartphones,45000,39200
+LP01,Lenovo IdeaPad 3 i5,Laptops,28500,24200
+LP02,HP Pavilion 15 i7,Laptops,42000,36000
+LP03,Dell Inspiron 15 i5,Laptops,31000,26500
+LP04,MacBook Air M3,Laptops,78000,68500
+LP05,ASUS VivoBook 16 R7,Laptops,35500,30200
+LP06,Acer Aspire 5 i3,Laptops,22000,18900
+TB01,iPad 10th Gen,Tablets,24500,21000
+TB02,Galaxy Tab A9+,Tablets,13500,11300
+TB03,Lenovo Tab M11,Tablets,9500,7900
+TB04,Huawei MatePad 11,Tablets,17500,14800
+TV01,"Samsung 55"" Crystal 4K",TVs,32000,26800
+TV02,"LG 50"" UHD 4K",TVs,26500,22300
+TV03,"TCL 43"" FHD Smart",TVs,14500,12000
+TV04,"Toshiba 65"" 4K",TVs,41000,34500
+TV05,"Hisense 58"" 4K",TVs,24000,20100
+TV06,"Samsung 75"" QLED",TVs,89000,76500
+AC01,Carrier Optimax 1.5HP Cool,Air Conditioners,33500,28400
+AC02,Sharp 2.25HP Cool/Heat,Air Conditioners,46500,39800
+AC03,Unionaire 1.5HP Cool,Air Conditioners,26000,22000
+AC04,Fresh 3HP Cool/Heat,Air Conditioners,58500,50200
+AC05,Tornado 1.5HP Inverter,Air Conditioners,38500,32700
+AC06,Haier 2.25HP Cool,Air Conditioners,41500,35400
+KA01,Tornado Air Fryer 5.5L,Kitchen Appliances,4200,3300
+KA02,Braun Hand Blender 1000W,Kitchen Appliances,3600,2800
+KA03,Black+Decker Microwave 30L,Kitchen Appliances,6800,5400
+KA04,Zanussi Gas Cooker 5B,Kitchen Appliances,24500,20300
+KA05,Tornado Water Heater 55L,Kitchen Appliances,9800,8000
+KA06,Kenwood Stand Mixer,Kitchen Appliances,12500,10100
+KA07,Philips Espresso Machine,Kitchen Appliances,18500,15200
+KA08,Moulinex Meat Grinder,Kitchen Appliances,5400,4250
+AU01,JBL Flip 6 Speaker,Audio,6500,5100
+AU02,Sony WH-CH720N Headphones,Audio,8900,7000
+AU03,AirPods Pro 2,Audio,13500,11200
+AU04,Anker Soundcore R50i,Audio,1450,1050
+AU05,JBL Tune 520BT,Audio,3200,2450
+AX01,Anker 20W Charger,Accessories,950,600
+AX02,USB-C Cable 2m,Accessories,350,190
+AX03,Phone Case Premium,Accessories,550,290
+AX04,Screen Protector Glass,Accessories,250,120
+AX05,Anker Power Bank 20K,Accessories,2450,1750
+AX06,Wireless Mouse Logitech,Accessories,1150,800
+AX07,Laptop Sleeve 15.6,Accessories,750,450
+AX08,Memory Card 128GB,Accessories,1350,950
+AX09,Keyboard K380,Accessories,1850,1350
+AX10,Car Phone Holder,Accessories,450,240
+AX11,HDMI Cable 2m,Accessories,400,220
+AX12,Laptop Cooling Pad,Accessories,900,580
